@@ -32,7 +32,6 @@
                     {
                         "group": "Writing content",
                         "pages": [
-                           "snippets/quickstart",
                             "essentials/\\",
                             "essentials/code",
                             "essentials/images",
